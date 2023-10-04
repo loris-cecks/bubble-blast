@@ -46,7 +46,3 @@ Then, to play the game:
 - `esitoPartita()`: Prints the result of the game.
 - `esplosione()`: Handles the explosion of a bubble and the propagation logic.
 - `propagazioneSu()`, `propagazioneGiu()`, `propagazioneDx()`, `propagazioneSx()`: Handle the propagation in the respective directions.
-
-## Contribution
-
-Feel free to fork the repository, make your changes and create a pull request. Let's make this game even more fun together!
